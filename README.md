@@ -1,9 +1,9 @@
 # Hi there 👋
 
-Perkenalkan, nama saya **Ayesa Aglystia Firdauzi**.<br>
-Saya seorang Mahasiswa di Universitas Amikom Purwokerto.<br>
+Hi there! I'am **Ayesa Aglystia Firdauzi**.<br>
+Undergraduate Information Technologi student at Amikom Purwokerto University.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/ayesa-aglystia-firdauzi-34249830b)ku ya.
+If you're interested in connecting with me, feel free to check out my [Linkedin](www.linkedin.com/in/ayesa-aglystia-firdauzi-34249830b).
 
 ### GitHub Statistic
 <p align="left">
